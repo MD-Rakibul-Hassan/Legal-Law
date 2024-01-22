@@ -1,0 +1,22 @@
+/* EB Garamond font form google fonts.com  */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+
+/* Global styles for the webpage  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: EB Garamond;
+}
+/* .font-fam {
+    font-size: EB Garamond;
+} */
+
+/* Max-width for the webpage  */
+
+.containers {
+    max-width: 1250px;
+    width: 100%;
+    margin: 0 auto;
+}
